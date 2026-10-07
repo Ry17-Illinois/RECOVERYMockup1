@@ -4,39 +4,28 @@ layout: single_page
 
 # Introduction
 
-Word count: 250–450 words
+_Private Life of a Cat_ (1947) is a black-and-white silent film by Alexander Hammid and Maya Deren that observes a female cat as she gives birth to and raises a litter of five kittens. Running about twenty-two minutes and containing no human actors, the film records labor, birth, nursing, and the kittens' first weeks of learning and growth, with the occasional presence of a tom cat. Its patient, close observation of animal life has made it a touchstone in the history of documentary and avant-garde filmmaking.
 
-This is the first written element of an edition: the first content readers encounter.
+This digital edition presents the film as digitized and preserved by the Prelinger Archives through the Internet Archive, where it circulates in the public domain. Our aim is to give readers a reliable, well-documented point of access to the film, together with context on how and why it was made and notes on the editorial choices behind this presentation.
 
-The purpose of this introduction is to set the scene: to provide an initial description of the source as well as an overview your edition, highlighting its features and supplements. This is not a space for much detail about the source or our editorial work with it. Later sections will allow you to do that. Here, your job is to help readers understand that they are looking at a digital edition of a historical source and why that source is interesting.
-
-The premium is on precise, no-nonsense prose.
-
-At bottom, you should include:
+The edition embeds the full film for streaming, records its archival provenance, and supplies descriptive metadata so that the source can be studied, taught, and cited with confidence.
 
 **How to Cite:**
-Here, provide a citation using this model:
 
-> Lastname, Firstname, FirstName LastName, and FirstName, Lastname. “Title of Web Page.” Name of Website (if different from web page). Publication or Revision Date. URL.
+> Lastname, Firstname. “Private Life of a Cat (1947): A Digital Edition.” Publication Date. URL.
 
-Your teams have multiple authors.  In scholarship, if authorship is equal across all team members, then the custom is to list by last name them in alphabetical order.  If you wish to deviate from this order you can but that will communicate priority (i.e. that the one who goes first is the 'lead author', etc.).
+This edition presents a public domain work. The underlying film carries a [Creative Commons Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/).
 
-If you choose and wish to do so, you may also include a Creative Commons license here. We'll discuss those in class.
-
-Here and throughout your edition, you should use footnotes in Chicago Notes and Bibliography style.[^1]  Please note that if sources are listed in your bibliography (and all your main ones should be), you may use a shortened form in these notes (e.g. Smith, _Towards a Better Understanding_, 5, with the full citation to Smith going in the bibliography).
+Here and throughout, footnotes follow Chicago Notes and Bibliography style.[^1]
 
 # The Source
 
-This section provides the main presentation of your source, as you have prepared it for readers (i.e., a facsimile, transcription, video, audio clip, etc.). This section is where we satisfy the first of the ADE’s three criteria for an electronic edition by providing a rigorous, accurate presentation of historical material.
+The full film is embedded below from its permanent home at the Internet Archive. Use the player controls to watch, pause, and scrub through the film. A detailed description of the item, including creator, date, rights, and source identifiers, is available via the "Detailed description" link beneath the player.
 
 {% assign media = site.mindoc_media | where: "page", "source" %}
 {% include media_next.html pages=media %}
 
-For the presentation of some sources, it may make sense to break up the presentation into multiple pages. For that, as needed, we can use a more book like template (binding multiple pages together) that I can provide. Nonetheless, this page should be the page from which all presentations of the source itself start.
-
-This may also be a space where editorial annotations are provided, such as notes on provenance, archival location, transcription, and more. If possible, a link to the source’s permanent digital location should be included here as well as a citation for that location. This should be done in consultation with the instructors, editorial board, and peer reviewers.
-
-Please note: some presentations may benefit from a multipage format (rather than one scrolling page, as here). I can make a multipage template available to you as needed.
+The source's permanent digital location is the Internet Archive item [PrivateL1947](https://archive.org/details/PrivateL1947), part of the Prelinger Archives collection. The embedded player streams directly from that location, so what readers view here is the archived copy rather than a re-hosted file.
 
 # About this Source
 
